@@ -1,0 +1,11 @@
+最近这两天由于换了新的电脑，一番纠结后，决定不再使用Windows+ubuntu的双系统模式，而改为采用Win 11家庭版+WSL Debian子系统。
+
+然而在新的架构下部署自己写的flask+sqlachemy+pandas网页应用时。遇到了如下三个问题：
+
+1\. 以前调用pandas的read\_sql这个方法的时候，参数传的是engine，现在传这个参数会报错。不知道是不是版本升级的原因，google查了一下，本来打算在我封装的session类里边。将传给三的band的参数改为engine.connect()，尝试后虽然正常读取数据库，但是在之后的插入数据到数据库时，会出现数据库所指无法写入的情况。经过多番尝试，改为在session实际使用的时候，也就是使用with表达式的时候，将read\_sql参数之一原先的session.bind改为session.bind.connect()，亲测有效；
+
+2\. sqlachemy比较新的版本在model类自动反射视图的时候，需要将原先autoload的参数去掉。是因为autoload在新版本中已经过时不再被使用。
+
+3\. 在基金净值模块儿，原先抓取且慢基金数据的API接口最近不工作了，报错信息是request请求的get方法redriect次数已经到达了上限。google得到的指引是禁用redirect或提升redirect次数。两者均未奏效。哦，经过自己反复检查，发现是header中的host参数需要更新，更新的参数参考浏览器端正常访问前脉网站调用API后台抓取的header的host参数。
+
+上述其中有两个问题都是Google两个小时以上也无法得到解决方案的hot potatos。为自己打call，继续加油！
