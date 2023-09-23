@@ -1,6 +1,6 @@
 ## 2023年
 | 文章              | 时间 |
-| :---------------- | :------: |
+| ---------------- | ------ |
 | [Lessons Learnt of Software Testing](./posts/2023/LessonsLearntOfSoftwareTesting.md) | 2023-12-31 23:59 |
 | [Cutting Edge in Software Testing](./posts/2023/CuttingEdgeInSoftwareTesting.md) | 2023-12-31 23:59 |
 | [读圣贤书所为何事？](./posts/2023/DuShengXianShuSuoWeiHeShi.md) | 2023-08-27 21:27 |
@@ -23,7 +23,7 @@
 
 ## 2022年
 | 文章              | 时间 |
-| :---------------- | :------: |
+| ---------------- | ------ |
 | [我的书摘2022](./posts/2022/WoDeShuZhai2022.md) | 2022-12-31 23:59 |
 | [How to setup a proxy with Xray](./posts/2022/HowToSetUpAProxyWithXray.md) | 2022-06-27 18:11 |
 | [VirtualBox下Ubuntu虚机中Docker服务还原](./posts/2022/VirtualBoxXiaUbuntuXuJiZhongDockerFuWuHuanYuan.md) | 2022-04-16 20:41 |
@@ -33,7 +33,7 @@
 
 ## 2021年
 | 文章              | 时间 |
-| :---------------- | :------: |
+| ---------------- | ------ |
 | [我的书摘2021](./posts/2021/WoDeShuZhai2021.md) | 2021-12-31 23:59 |
 | [卓有成效的管理者如何找人和用人](./posts/2021/ZhuoYouChengXiaoDeGuanLiZheRuHeZhaoRenYongRen.md) | 2021-12-27 20:08 |
 | [卓有成效的时间管理者](./posts/2021/ZhuoYouChengXiaoDeGuanLiZhe.md) | 2021-12-25 19:46 |
@@ -45,7 +45,7 @@
 
 ## 2020年
 | 文章              | 时间 |
-| :---------------- | :------: |
+| ---------------- | ------ |
 | [我的书摘2020](./posts/2020/WoDeShuZhai2020.md) | 2020-12-31 23:59 |
 | [Ruby Test Automation Framework Setup](./posts/2020/RubyTestAutomationFrameworkSetup.md) | 2020-12-08 12:41 |
 | [知乎书籍推荐TOP2500](./posts/2020/ZhiHuShuJiTuiJianTop2500.md) | 2020-12-08 12:40 |
@@ -74,7 +74,7 @@
 
 ## 2019年
 | 文章              | 时间 |
-| :---------------- | :------: |
+| ---------------- | ------ |
 | [我的书摘2019](./posts/2019/WoDeShuZhai2019.md) | 2019-12-31 23:59 |
 | [写在2019年末](./posts/2019/XieZai2019NianMo.md) | 2019-12-31 23:59 |
 
