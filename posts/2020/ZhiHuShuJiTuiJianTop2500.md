@@ -1,4 +1,4 @@
-![知乎书籍推荐TOP2500](https://picx.zhimg.com/70/v2-6fae428d5c1e7501e7823bde671f6b1f_1440w.image?source=172ae18b&biz_tag=Post)
+![知乎书籍推荐TOP2500](img/v2-6fae428d5c1e7501e7823bde671f6b1f_1440w.image?source=172ae18b&biz_tag=Post)
 
 > 书籍名 被推荐次数  
 > 0 活着 805  

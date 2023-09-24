@@ -1,6 +1,6 @@
 读完大秦帝国系列, 总结各国才俊及亡国原因如下:
 
-![](https://pic1.zhimg.com/v2-e06d7946e789f613c476c52fbf7df874_b.jpg)
+![](img/v2-e06d7946e789f613c476c52fbf7df874_b.jpg)
 
 Post navigation  
 <**a href="https**://yinzhenzhixin.ml/2020/03/ubuntu-tips/"> PREVIOUS POST  

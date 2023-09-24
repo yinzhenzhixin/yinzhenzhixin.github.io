@@ -8,16 +8,16 @@
 
 从成品搭配来分，在我们熟知的的Espresso和Americano之外，花式咖啡种类繁多（根据咖啡，牛奶，巧克力等配比不同），以下列举一些知名的：
 
-![](https://pic1.zhimg.com/v2-ebec53a2e94eb4cd27deb85f86636ba4_b.jpg)
+![](img/v2-ebec53a2e94eb4cd27deb85f86636ba4_b.jpg)
 
 -   设备
 
 包括冲调设备和饮用器具，其实主要是前者，种类较多（如下图）。最容易上手的，当属法压壶。
 
-![](https://pic4.zhimg.com/v2-8591374241b15bddb2b37d989b7f6bdf_b.jpg)
+![](img/v2-8591374241b15bddb2b37d989b7f6bdf_b.jpg)
 
 -   产量
 
 全世界咖啡产量最多的三个国家：巴西，越南，哥伦比亚，其中越南主要产速溶咖啡。下图展示了咖啡产量最多的20个国家。
 
-![](https://pic3.zhimg.com/v2-14066e76c42a6b9345f97a50c520af22_b.jpg)
+![](img/v2-14066e76c42a6b9345f97a50c520af22_b.jpg)

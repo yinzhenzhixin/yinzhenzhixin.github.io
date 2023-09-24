@@ -6,7 +6,7 @@ Deriving test cases directly from a requirement specification
 
 > _Equivalence Class Partitioning (ECP) is a software testing technique that divides the input data of a software unit into partitions of equivalent data from which test cases can be derived. In principle, test cases are designed to cover each partition at least once. This technique tries to define test cases that uncover classes of errors, thereby reducing the total number of test cases that must be developed. An advantage of this approach is reduction in the time required for testing software due to lesser number of test cases._
 
-![](https://pic2.zhimg.com/v2-53b3ad8db1fc534096f3331548aa5989_b.jpg)
+![](img/v2-53b3ad8db1fc534096f3331548aa5989_b.jpg)
 
 ## **2\. Boundary Value Analysis (BVA)**
 
@@ -14,11 +14,11 @@ Deriving test cases directly from a requirement specification
 
 ### Step 1: Splitting value area  
 
-![](https://pic3.zhimg.com/v2-1604aa84c2e3b47c03eb1443a3bbc78e_b.jpg)
+![](img/v2-1604aa84c2e3b47c03eb1443a3bbc78e_b.jpg)
 
 ### Step 2: Analyzing boundary value
 
-![](https://pic3.zhimg.com/v2-b1c7185ebf6d509cfff6395042b08db6_b.jpg)
+![](img/v2-b1c7185ebf6d509cfff6395042b08db6_b.jpg)
 
 ## **3\. Cause-effect graph**
 
@@ -26,33 +26,33 @@ Deriving test cases directly from a requirement specification
 
 ### Template
 
-![](https://pic1.zhimg.com/v2-1cd8a0720fb30ebc8352af7573cc3e54_b.jpg)
+![](img/v2-1cd8a0720fb30ebc8352af7573cc3e54_b.jpg)
 
 ### Elements
 
-![](https://pic1.zhimg.com/v2-031136413bf6145ae221d50220c169e4_b.jpg)
+![](img/v2-031136413bf6145ae221d50220c169e4_b.jpg)
 
 ### Output: Decision Table
 
-![](https://pic3.zhimg.com/v2-14c1fc8464567dc13471355cc2c76752_b.jpg)
+![](img/v2-14c1fc8464567dc13471355cc2c76752_b.jpg)
 
 ### Examples
 
 ### Step 1: List causes and effects
 
-![](https://pic3.zhimg.com/v2-d4870f8e2b9868009dd0f9b23276bb4e_b.jpg)
+![](img/v2-d4870f8e2b9868009dd0f9b23276bb4e_b.jpg)
 
 ### Step 2: Draw cause-effect graph
 
-![](https://pic1.zhimg.com/v2-a268ceb41b41259326298f4026cc857c_b.jpg)
+![](img/v2-a268ceb41b41259326298f4026cc857c_b.jpg)
 
 ### Step 3: Draw decision table
 
-![](https://pic1.zhimg.com/v2-378f4a39d3bcff5aba91232c0e8ef8c0_b.jpeg)
+![](img/v2-378f4a39d3bcff5aba91232c0e8ef8c0_b.jpeg)
 
 ### Step 4: Come up with test cases
 
-![](https://pic1.zhimg.com/v2-9bd067fe9e609de44368df8f1c7400b8_b.jpg)
+![](img/v2-9bd067fe9e609de44368df8f1c7400b8_b.jpg)
 
 ## **4\. State Transition Diagrams**
 
@@ -62,12 +62,12 @@ Deriving test cases directly from a requirement specification
 
 ### Step 1: Draw state transition diagram
 
-![](https://pic2.zhimg.com/v2-e7e4aae5a49db214ba635de0157d5acd_b.jpg)
+![](img/v2-e7e4aae5a49db214ba635de0157d5acd_b.jpg)
 
   
 Step 2: Draw state transition table
 
-![](https://pic2.zhimg.com/v2-fe0d255b2f84a9cea8c21e856daf6cd1_b.jpg)
+![](img/v2-fe0d255b2f84a9cea8c21e856daf6cd1_b.jpg)
 
 ## Ad-hoc Testing
 
@@ -77,7 +77,7 @@ Deriving test cases based on tester’s experience on similar systems or testers
 
 > _In software testing, error guessing is a test method in which test cases used to find bugs in programs are established based on experience in prior testing. The scope of test cases usually rely on the software tester involved, who uses past experience and intuition to determine what situations commonly cause software failure, or may cause errors to appear. Typical errors include divide by zero, null pointers, or invalid parameters._
 
-![](https://pic4.zhimg.com/v2-5fd027a08b92abae384fde561ce86247_b.jpg)
+![](img/v2-5fd027a08b92abae384fde561ce86247_b.jpg)
 
 ## **2\. Exploratory Testing**
 
@@ -85,12 +85,12 @@ Deriving test cases based on tester’s experience on similar systems or testers
 
 ### 1\. Focusing on WHY
 
-![](https://pic2.zhimg.com/v2-77c36eae5eadf03a70661d91e31db5d9_b.jpg)
+![](img/v2-77c36eae5eadf03a70661d91e31db5d9_b.jpg)
 
 ### 2\. Try whatever
 
-![](https://pic3.zhimg.com/v2-e5f87faa628b6dfedb5ae24548ba0ac2_b.jpg)
+![](img/v2-e5f87faa628b6dfedb5ae24548ba0ac2_b.jpg)
 
 ### Recommended Book
 
-![](https://pic3.zhimg.com/v2-f4e78dd744459af7f13223cc318bc3aa_b.jpg)
+![](img/v2-f4e78dd744459af7f13223cc318bc3aa_b.jpg)
