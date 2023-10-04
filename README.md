@@ -4,6 +4,7 @@
 | [我的书摘2023](./posts/2023/WoDeShuZhai2023.md) | 2023-12-31 23:59 |
 | [Lessons Learnt of Software Testing](./posts/2023/LessonsLearntOfSoftwareTesting.md) | 2023-12-31 23:59 |
 | [Cutting Edge in Software Testing](./posts/2023/CuttingEdgeInSoftwareTesting.md) | 2023-12-31 23:59 |
+| [成功可以复制么](./posts/2023/ChengGongKeYiFuZhiMe.md) | 2023-10-04 19:45 |
 | [读圣贤书所为何事？](./posts/2023/DuShengXianShuSuoWeiHeShi.md) | 2023-08-27 21:27 |
 | [Microsoft WSL Reinstalling](./posts/2023/MicrosoftWSLReinstalling.md) | 2023-08-21 13:33 |
 | [成都六日行反思](./posts/2023/ChengDuLiuRiXingFanSi.md) | 2023-08-06 19:44 |
