@@ -1,4 +1,4 @@
-[](img/banners/HaiJiDeNiDeDiPingXianMe.png)
+![image](./img/banners/HaiJiDeNiDeDiPingXianMe.png)
 >如果要飞得高，就该把地平线忘掉。
 
 刘德华的这句歌词，蕴含着一种超越常规、突破自我的精神，鼓励人们在奋斗中不断向前，不受限制。忘掉地平线，或许会让人们追求更高的目标，超越自我，取得更大的成就。
