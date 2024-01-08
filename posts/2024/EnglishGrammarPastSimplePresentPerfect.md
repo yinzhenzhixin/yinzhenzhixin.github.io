@@ -40,21 +40,33 @@ _Repeated action in the past_
 
 ### Actions starting in the past and continuing to the present
 
-I have lived here for ten years. (Living started in the past and continues now)
+> I have lived here for ten years.
 
-She has written three books. (Writing started in the past and is ongoing)
+_Living started in the past and continues now_
+
+> She has written three books.
+
+_Writing started in the past and is ongoing_
 
 ### Actions finished in the past but with a present connection
 
-I have lost my phone. (The phone is lost now, due to an action in the past)
+> I have lost my phone.
 
-We have eaten already. (We are not hungry now, because we ate in the past)
+_The phone is lost now, due to an action in the past_
+
+> We have eaten already.
+
+_We are not hungry now, because we ate in the past_
 
 ### Unspecified time in the past
 
-I have seen that movie before. (Doesn't matter when I saw it)
+> I have seen that movie before.
 
-She has never been to Japan. (No specific time mentioned)
+_Doesn't matter when I saw it_
+
+> She has never been to Japan.
+
+_No specific time mentioned_
 
 ## More Examples
 
