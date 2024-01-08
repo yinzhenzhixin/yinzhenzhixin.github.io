@@ -2,6 +2,8 @@
 
 I used to struggle with the differences between past simple and present for my years. Let me try to sum up what I learnt recently.
 
+## Past Simple
+
 ### Completed actions in the past
 
 > I studied for my exam yesterday.
