@@ -2,6 +2,7 @@
 ## 2024年
 
 | ---------------- | ------ |
+| [How to speak so that people want to listen](./posts/2024/HowtoSpeakSoThatPeopleWantToListen.md) | 2024-03-14 22:24 |
 | [山顶的领导者](./posts/2024/ShanDingDeLingDaoZhe.md) | 2024-03-07 21:59 |
 | [English Grammar: Past Simple & Present Perfect](./posts/2024/EnglishGrammarPastSimplePresentPerfect.md) | 2024-01-08 21:59 |
 
